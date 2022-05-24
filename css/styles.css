@@ -27,7 +27,6 @@ header {
   width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
-  /* outline: 2px solid red; */
 }
 .header {
   display: flex;
@@ -123,7 +122,6 @@ header {
   line-height: 1.4;
   text-align: center;
   text-transform: uppercase;
-  /* outline: 2px solid red; */
 }
 .banner-title,
 .button.primary {
