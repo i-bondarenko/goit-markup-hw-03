@@ -299,6 +299,7 @@ footer {
 .name.studio {
   display: block;
   margin-bottom: 20px;
+  margin-right: 0;
 }
 .name-second {
   color: var(--second-accent-color);
